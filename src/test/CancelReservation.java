@@ -5,7 +5,7 @@ public class CancelReservation {
         
         System.out.println("Reservation cancelled");
         
-        System.out.println("Changes from GITHUB"); this line is from gitHub
+        System.out.println("Changes from GITHUB"); //this line is from gitHub
         
     }
 }
